@@ -1,0 +1,1 @@
+(self.webpackChunksadsumoblog=self.webpackChunksadsumoblog||[]).push([[766],{9553:function(s){"use strict";s.exports=JSON.parse('{"allTagsPath":"/sadsumo-studios.github.io/blog/tags","slug":"first","name":"first","count":1,"permalink":"/sadsumo-studios.github.io/blog/tags/first"}')}}]);
