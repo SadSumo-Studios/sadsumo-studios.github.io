@@ -9,7 +9,7 @@
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[First Blog!]]></title>
-            <link>https://sadsumo-studios.github.io/sadsumo-studios.github.io/blog/first</link>
+            <link>https://sadsumo-studios.github.io/blog/first</link>
             <guid>first</guid>
             <pubDate>Sun, 16 May 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[I am so excited to start a blog for SadSumo Studios. I plan to document what I learn in this blog. I hope also it is useful for others who encounter some of the same problems I have.]]></description>

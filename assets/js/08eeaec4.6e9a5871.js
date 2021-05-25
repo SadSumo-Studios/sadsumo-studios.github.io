@@ -1,1 +1,0 @@
-(self.webpackChunksadsumoblog=self.webpackChunksadsumoblog||[]).push([[783],{8371:function(o){"use strict";o.exports=JSON.parse('{"permalink":"/sadsumo-studios.github.io/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

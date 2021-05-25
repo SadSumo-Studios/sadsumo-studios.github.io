@@ -1,0 +1,1 @@
+(self.webpackChunksadsumoblog=self.webpackChunksadsumoblog||[]).push([[585],{2754:function(s){"use strict";s.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"first","name":"first","count":1,"permalink":"/blog/tags/first"}')}}]);
