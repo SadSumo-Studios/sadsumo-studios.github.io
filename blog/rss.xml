@@ -4,9 +4,16 @@
         <title>SadSumo Blog Blog</title>
         <link>https://sadsumo-studios.github.io/blog</link>
         <description>SadSumo Blog Blog</description>
-        <lastBuildDate>Mon, 24 May 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 May 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Diversity is desperately needed in IT]]></title>
+            <link>https://sadsumo-studios.github.io/blog/diversity-in-IT</link>
+            <guid>diversity-in-IT</guid>
+            <pubDate>Mon, 31 May 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[I want to start using this blog to get things off my chest related to how I see the state of IT today. Although I think it has greatly improved since when I started in IT, I believe that diversity in IT is needed. I get looks of surprise when I mention it to people, but once I begin to explain it, many people seem to quickly get it. Development in IT is dominated by White, Indian and Asian males. We really do not understand the experience that women, African Americans (male or female) and other races, genders, etc... go thru. Those people groups need their own representation in the industry.]]></description>
+        </item>
         <item>
             <title><![CDATA[configured gh-pages!]]></title>
             <link>https://sadsumo-studios.github.io/blog/gh-pages</link>

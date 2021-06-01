@@ -1,1 +1,0 @@
-(self.webpackChunksadsumoblog=self.webpackChunksadsumoblog||[]).push([[715],{6353:function(e){"use strict";e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"configured gh-pages!","permalink":"/blog/gh-pages"},{"title":"First Blog!","permalink":"/blog/first"}]}')}}]);
