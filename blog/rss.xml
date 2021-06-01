@@ -12,7 +12,7 @@
             <link>https://sadsumo-studios.github.io/blog/developing-in-Linux</link>
             <guid>developing-in-Linux</guid>
             <pubDate>Mon, 31 May 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[I am excited to announce that this blog is being updated from a Linux Dev environment. I completed the set up today. I am using Ubuntu 20.04.2.0 LTS. My rig is an i7 that I had laying around and was able to put a 1TB HDD with 8GB of RAM. I prefer Linux because of apt, what a pleasure it was installing all of the tools from the command line and simply deploying the environment.]]></description>
+            <description><![CDATA[I am excited to announce that this blog is being updated from a Linux Dev environment. I completed the set up today. I am using Ubuntu 20.04.2.0 LTS. My rig is an i7 that I had laying around and was able to put a 1TB HDD with 8GB of RAM. I prefer Linux because of apt, what a pleasure it was installing all of the tools from the command line and simply deploying the environment. Also look how simple the command to deploy the site is in Linux:]]></description>
         </item>
         <item>
             <title><![CDATA[configured gh-pages!]]></title>
