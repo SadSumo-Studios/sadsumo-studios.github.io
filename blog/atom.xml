@@ -8,11 +8,11 @@
     <subtitle>SadSumo Blog Blog</subtitle>
     <icon>https://sadsumo-studios.github.io/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Diversity is desperately needed in IT]]></title>
-        <id>diversity-in-IT</id>
-        <link href="https://sadsumo-studios.github.io/blog/diversity-in-IT"/>
+        <title type="html"><![CDATA[Set Up a dev environment in Linux!]]></title>
+        <id>developing-in-Linux</id>
+        <link href="https://sadsumo-studios.github.io/blog/developing-in-Linux"/>
         <updated>2021-05-31T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[I want to start using this blog to get things off my chest related to how I see the state of IT today. Although I think it has greatly improved since when I started in IT, I believe that diversity in IT is needed. I get looks of surprise when I mention it to people, but once I begin to explain it, many people seem to quickly get it. Development in IT is dominated by White, Indian and Asian males. We really do not understand the experience that women, African Americans (male or female) and other races, genders, etc... go thru. Those people groups need their own representation in the industry.]]></summary>
+        <summary type="html"><![CDATA[I am excited to announce that this blog is being updated from a Linux Dev environment. I completed the set up today. I am using Ubuntu 20.04.2.0 LTS. My rig is an i7 that I had laying around and was able to put a 1TB HDD with 8GB of RAM. I prefer Linus for apt, what a pleasure it was installing all of the tools from the command line and simply deploying the environment.]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[configured gh-pages!]]></title>

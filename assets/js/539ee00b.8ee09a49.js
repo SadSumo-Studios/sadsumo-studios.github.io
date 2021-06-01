@@ -1,1 +1,0 @@
-(self.webpackChunksadsumoblog=self.webpackChunksadsumoblog||[]).push([[754],{6353:function(e){"use strict";e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Diversity is desperately needed in IT","permalink":"/blog/diversity-in-IT"},{"title":"configured gh-pages!","permalink":"/blog/gh-pages"},{"title":"First Blog!","permalink":"/blog/first"}]}')}}]);

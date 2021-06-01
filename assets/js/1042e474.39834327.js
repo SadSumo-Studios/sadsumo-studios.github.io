@@ -1,1 +1,0 @@
-(self.webpackChunksadsumoblog=self.webpackChunksadsumoblog||[]).push([[401],{6667:function(s){"use strict";s.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"diversity","name":"diversity","count":1,"permalink":"/blog/tags/diversity"}')}}]);
