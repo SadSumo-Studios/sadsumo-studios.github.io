@@ -12,7 +12,7 @@
         <id>developing-in-Linux</id>
         <link href="https://sadsumo-studios.github.io/blog/developing-in-Linux"/>
         <updated>2021-05-31T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[I am excited to announce that this blog is being updated from a Linux Dev environment. I completed the set up today. I am using Ubuntu 20.04.2.0 LTS. My rig is an i7 that I had laying around and was able to put a 1TB HDD with 8GB of RAM. I prefer Linus for apt, what a pleasure it was installing all of the tools from the command line and simply deploying the environment.]]></summary>
+        <summary type="html"><![CDATA[I am excited to announce that this blog is being updated from a Linux Dev environment. I completed the set up today. I am using Ubuntu 20.04.2.0 LTS. My rig is an i7 that I had laying around and was able to put a 1TB HDD with 8GB of RAM. I prefer Linux because of apt, what a pleasure it was installing all of the tools from the command line and simply deploying the environment.]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[configured gh-pages!]]></title>
