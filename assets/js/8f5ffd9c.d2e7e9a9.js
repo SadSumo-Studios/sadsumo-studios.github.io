@@ -1,0 +1,1 @@
+(self.webpackChunksadsumoblog=self.webpackChunksadsumoblog||[]).push([[556],{6569:function(s){"use strict";s.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"cryptocurrency","name":"cryptocurrency","count":1,"permalink":"/blog/tags/cryptocurrency"}')}}]);

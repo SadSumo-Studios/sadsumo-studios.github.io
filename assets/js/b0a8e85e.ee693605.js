@@ -1,0 +1,1 @@
+(self.webpackChunksadsumoblog=self.webpackChunksadsumoblog||[]).push([[500],{8939:function(s){"use strict";s.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"nft","name":"nft","count":1,"permalink":"/blog/tags/nft"}')}}]);
