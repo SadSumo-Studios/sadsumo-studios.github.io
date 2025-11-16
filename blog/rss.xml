@@ -4,16 +4,9 @@
         <title>SadSumo Blog Blog</title>
         <link>https://sadsumo-studios.github.io/blog</link>
         <description>SadSumo Blog Blog</description>
-        <lastBuildDate>Sun, 06 Jun 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 May 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[SadSumo is an NFT]]></title>
-            <link>https://sadsumo-studios.github.io/blog/sadsumo-nft</link>
-            <guid>sadsumo-nft</guid>
-            <pubDate>Sun, 06 Jun 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[Yes, you heard that correctly! I have created an NFT using the image of sadsumo and it is available viewing on opensea.io]]></description>
-        </item>
         <item>
             <title><![CDATA[Set Up a dev environment in Linux!]]></title>
             <link>https://sadsumo-studios.github.io/blog/developing-in-Linux</link>
