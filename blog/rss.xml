@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>SadSumo Blog Blog</title>
+        <link>https://sadsumo-studios.github.io/blog</link>
+        <description>SadSumo Blog Blog</description>
+        <lastBuildDate>Thu, 16 Jan 2025 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Welcome to SadSumo Consulting - Here's What We're Building]]></title>
+            <link>https://sadsumo-studios.github.io/blog/welcome-to-sadsumo</link>
+            <guid>welcome-to-sadsumo</guid>
+            <pubDate>Thu, 16 Jan 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Hey there! Welcome to the SadSumo Consulting blog. I'm really excited to share what we're working on and where we're headed.]]></description>
+        </item>
+    </channel>
+</rss>

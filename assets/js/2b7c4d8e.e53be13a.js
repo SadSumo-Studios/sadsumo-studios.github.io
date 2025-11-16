@@ -1,0 +1,1 @@
+(self.webpackChunksadsumoblog=self.webpackChunksadsumoblog||[]).push([[451],{4522:function(n){"use strict";n.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"innovation","name":"innovation","count":1,"permalink":"/blog/tags/innovation"}')}}]);
