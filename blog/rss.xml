@@ -8,18 +8,18 @@
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[The AI Ethics Wake-Up Call: Why Your Business Can't Afford to Ignore This Conversation]]></title>
-            <link>https://sadsumo-studios.github.io/blog/the-ai-ethics-wake-up-call-why-your-business-can-t-afford-to-ignore-this-conversation</link>
-            <guid>the-ai-ethics-wake-up-call-why-your-business-can-t-afford-to-ignore-this-conversation</guid>
-            <pubDate>Sun, 16 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[If you've been treating AI ethics as an abstract philosophical debate that doesn't apply to your business, it's time to think again. Recent developments in the AI world are sending a clear message: the ethical use of artificial intelligence isn't just an academic concern—it's becoming a business imperative that could make or break your company's future.]]></description>
-        </item>
-        <item>
             <title><![CDATA[When AI Helps vs When It Harms: A Business Owner's Guide to Drawing the Line]]></title>
             <link>https://sadsumo-studios.github.io/blog/when-ai-helps-vs-when-it-harms-a-business-owner-s-guide-to-drawing-the-line</link>
             <guid>when-ai-helps-vs-when-it-harms-a-business-owner-s-guide-to-drawing-the-line</guid>
             <pubDate>Sun, 16 Nov 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[Picture this: You're running a customer service team, and you're drowning in support tickets. Your AI chatbot suggestion seems like a lifesaver—it could handle 80% of routine inquiries, freeing up your human agents for complex issues. Sounds perfect, right?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[The AI Ethics Wake-Up Call: Why Your Business Can't Afford to Ignore This Conversation]]></title>
+            <link>https://sadsumo-studios.github.io/blog/the-ai-ethics-wake-up-call-why-your-business-can-t-afford-to-ignore-this-conversation</link>
+            <guid>the-ai-ethics-wake-up-call-why-your-business-can-t-afford-to-ignore-this-conversation</guid>
+            <pubDate>Sun, 16 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[If you've been treating AI ethics as an abstract philosophical debate that doesn't apply to your business, it's time to think again. Recent developments in the AI world are sending a clear message: the ethical use of artificial intelligence isn't just an academic concern—it's becoming a business imperative that could make or break your company's future.]]></description>
         </item>
         <item>
             <title><![CDATA[Responsible AI Use - The Line Between Tool and Replacement]]></title>
