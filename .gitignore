@@ -1,0 +1,3 @@
+# Never allow .env files in static directory
+.env
+.env.*
