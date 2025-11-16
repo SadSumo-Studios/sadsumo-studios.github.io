@@ -1,0 +1,1 @@
+(self.webpackChunksadsumoblog=self.webpackChunksadsumoblog||[]).push([[534],{197:function(s){"use strict";s.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"business","name":"business","count":1,"permalink":"/blog/tags/business"}')}}]);

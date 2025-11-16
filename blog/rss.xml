@@ -4,9 +4,23 @@
         <title>SadSumo Blog Blog</title>
         <link>https://sadsumo-studios.github.io/blog</link>
         <description>SadSumo Blog Blog</description>
-        <lastBuildDate>Thu, 16 Jan 2025 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jan 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Responsible AI Use - The Line Between Tool and Replacement]]></title>
+            <link>https://sadsumo-studios.github.io/blog/responsible-ai-tool-not-replacement</link>
+            <guid>responsible-ai-tool-not-replacement</guid>
+            <pubDate>Sun, 19 Jan 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[There's a conversation we need to have about AI, and it's not the one you might expect. It's not about whether AI will take your job, or whether it's getting too smart, or when we'll have general artificial intelligence.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[AI Ethics - Why Your Business Needs Clear Guidelines]]></title>
+            <link>https://sadsumo-studios.github.io/blog/ai-ethics-business-guidelines</link>
+            <guid>ai-ethics-business-guidelines</guid>
+            <pubDate>Fri, 17 Jan 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[If you're running a business and thinking about bringing AI into your operations, you've probably heard plenty about what AI can do for you. Automate this, optimize that, predict the other thing. It's all very exciting, and honestly, a lot of it is true. AI can be incredibly powerful.]]></description>
+        </item>
         <item>
             <title><![CDATA[Welcome to SadSumo Consulting - Here's What We're Building]]></title>
             <link>https://sadsumo-studios.github.io/blog/welcome-to-sadsumo</link>

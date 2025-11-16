@@ -1,1 +1,0 @@
-(self.webpackChunksadsumoblog=self.webpackChunksadsumoblog||[]).push([[999],{6353:function(e){"use strict";e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome to SadSumo Consulting - Here\'s What We\'re Building","permalink":"/blog/welcome-to-sadsumo"}]}')}}]);

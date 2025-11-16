@@ -1,0 +1,1 @@
+(self.webpackChunksadsumoblog=self.webpackChunksadsumoblog||[]).push([[589],{6747:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"mental-health","name":"mental-health","count":1,"permalink":"/blog/tags/mental-health"}')}}]);
