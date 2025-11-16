@@ -1,1 +1,0 @@
-(self.webpackChunksadsumoblog=self.webpackChunksadsumoblog||[]).push([[53],{9054:function(e){"use strict";e.exports=JSON.parse('{"pluginId":"default","version":"current","label":"Next","isLast":true,"docsSidebars":{"tutorialSidebar":[{"type":"link","label":"Introduction to SadSumo Studios","href":"/docs/intro"}]},"permalinkToSidebar":{"/docs/intro":"tutorialSidebar"}}')}}]);
