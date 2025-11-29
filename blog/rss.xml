@@ -4,9 +4,16 @@
         <title>SadSumo Blog Blog</title>
         <link>https://sadsumo-studios.github.io/blog</link>
         <description>SadSumo Blog Blog</description>
-        <lastBuildDate>Wed, 19 Nov 2025 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Nov 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Who's Really Responsible When AI Gets It Wrong? A Guide for Business Leaders]]></title>
+            <link>https://sadsumo-studios.github.io/blog/who-s-really-responsible-when-ai-gets-it-wrong-a-guide-for-business-leaders</link>
+            <guid>who-s-really-responsible-when-ai-gets-it-wrong-a-guide-for-business-leaders</guid>
+            <pubDate>Sat, 29 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Picture this: Your customer service chatbot gives terrible advice that costs a client thousands of dollars. Your AI-powered hiring tool discriminates against qualified candidates. Your automated medical screening system misses a critical diagnosis. When something goes wrong with AI, who's actually responsible?]]></description>
+        </item>
         <item>
             <title><![CDATA[Responsible AI Use - The Line Between Tool and Replacement]]></title>
             <link>https://sadsumo-studios.github.io/blog/responsible-ai-tool-not-replacement</link>
