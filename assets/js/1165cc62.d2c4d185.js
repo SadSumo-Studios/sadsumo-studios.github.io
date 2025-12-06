@@ -1,1 +1,0 @@
-(self.webpackChunksadsumoblog=self.webpackChunksadsumoblog||[]).push([[422],{8578:function(s){"use strict";s.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"ethics","name":"ethics","count":5,"permalink":"/blog/tags/ethics"}')}}]);
